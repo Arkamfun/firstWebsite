@@ -1,0 +1,174 @@
+.testimoni-head {
+  font-size: 64px;
+}
+
+.top-apply {
+  text-decoration: none;
+  color: white;
+  background: #03a696;
+  padding: 12px 16px;
+  border-radius: 10px;
+  font-weight: bold;
+  transition: 0.2s;
+}
+
+.jumbotron-img {
+}
+.top-apply:hover {
+  color: #03a696;
+  background-color: white;
+}
+.text-people {
+  font-size: 15px;
+  padding-bottom: 16px;
+}
+
+.nama-jabatan .nama {
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 0.5;
+}
+
+.header-text {
+  font-size: 60px;
+  width: 60%;
+  font-family: "Poppins";
+  font-weight: 800;
+}
+
+.desc-jumbo {
+  font-family: "Poppins";
+  font-weight: 100;
+}
+.arrow-app {
+  transform: rotate(-45deg) scale(2);
+  margin-bottom: 20px;
+  background: #03a696;
+  width: 60px;
+  height: 60px;
+  border: 2px solid #4ebcbd;
+  padding: 10px;
+}
+
+.apply {
+  padding-top: 20px;
+
+  font-family: "Poppins";
+  color: #03a696;
+}
+.info-left {
+  font-size: 50px;
+  width: 400px;
+  font-weight: 600;
+}
+
+.info-right {
+  font-family: "Poppins";
+  font-weight: 100;
+  width: 400px;
+}
+
+.link-info {
+  font-weight: 600;
+  font-size: 15px;
+  color: #03a696;
+  transition: 0.3s;
+}
+
+.link-info:hover {
+  font-size: 16px;
+}
+
+.link-info a {
+  text-decoration: none;
+  color: #03a696;
+}
+
+.link-info i {
+  padding-left: 8px;
+  font-size: 24px;
+  color: #03a696;
+}
+.info-cont {
+  margin-top: 100px;
+  border-top: 2px solid black;
+}
+
+.info-comp {
+  padding-top: 40px;
+}
+
+.tanda-kutip {
+  width: 50px;
+  position: absolute;
+  z-index: -999;
+  opacity: 0.3;
+}
+
+.swiper {
+  width: 500px;
+}
+.testimonial-cards {
+  padding: 8px;
+  margin: 0 10px;
+  border-radius: 20px;
+  width: 30rem;
+}
+
+.testi-people img {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+
+.nama-jabatan {
+  margin-left: 15px;
+}
+
+.nama-jabatan p {
+  margin-bottom: 5px;
+}
+
+/* our office start */
+
+.our-office-container {
+  padding-top: 50px;
+}
+
+.view-our {
+  color: #03a696;
+  transition: 0.2s;
+}
+
+.view-our:hover {
+  color: white;
+}
+
+/* new career */
+
+.new-career {
+  font-family: "Poppins";
+  font-weight: 600;
+}
+
+.discover-position {
+  background-color: #03a696;
+  color: white;
+  border: none;
+  transition: 0.2s;
+  width: 12rem;
+}
+
+.discover-position:hover {
+  width: 13rem;
+  height: 100%;
+}
+
+/* footer */
+
+.logo-sos {
+  margin-bottom: 20px;
+}
+.logo-sos i {
+  padding-right: 20px;
+}
